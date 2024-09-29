@@ -23,6 +23,40 @@ main {
     color: orange;
 }
 
+.unchecked{
+    color: gray;
+}
+
 .offcanvas-top{
     height: fit-content;
+}
+
+li{
+    color: aliceblue;
+    list-style: none;
+    margin-bottom: 2%;
+    padding: 1%;
+}
+
+a{
+    color: #dc3545;
+}
+
+.dropdown{
+    position: absolute;
+    right: 0;
+}
+
+.col-11{
+    color: gray;
+}
+
+li.movieItem{
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+}
+
+.rating{
+    float: right;
 }
